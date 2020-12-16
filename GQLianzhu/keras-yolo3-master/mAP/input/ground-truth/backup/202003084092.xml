@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2020.03.19</folder>
+	<filename>202003084092.bmp</filename>
+	<path>E:\USTB\样本标定\IMAGE\2020.03.19\202003084092.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hengxiangliewen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>400</ymin>
+			<xmax>486</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+</annotation>

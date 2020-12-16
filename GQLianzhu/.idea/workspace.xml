@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e737e55-232a-48bb-817f-7117bd666905" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gJQI19ZKaB9iK3pEtmiMlWchf6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../棒材内部缺陷" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\GQLianzhu\keras-yolo3-master" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.llllll">
+    <configuration name="ArNTSteelDefectsClassifier" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GQLianzhu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Predict" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Predict/ArNTSteelDefectsClassifier.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="O_train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GQLianzhu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/keras-yolo3-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/keras-yolo3-master/O_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kmeans" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GQLianzhu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/keras-yolo3-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/keras-yolo3-master/kmeans.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="llllll" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GQLianzhu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/llllll.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="steel_interface" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GQLianzhu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Predict/TOOLS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Predict/TOOLS/steel_interface.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.llllll" />
+        <item itemvalue="Python.ArNTSteelDefectsClassifier" />
+        <item itemvalue="Python.steel_interface" />
+        <item itemvalue="Python.O_train" />
+        <item itemvalue="Python.kmeans" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e737e55-232a-48bb-817f-7117bd666905" name="Default Changelist" comment="" />
+      <created>1597830131373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597830131373</updated>
+      <workItem from="1597830132503" duration="14318000" />
+      <workItem from="1597910952633" duration="80698000" />
+      <workItem from="1599729697594" duration="5803000" />
+      <workItem from="1599916544350" duration="4361000" />
+      <workItem from="1600073365444" duration="3213000" />
+      <workItem from="1603378296722" duration="34000" />
+      <workItem from="1603432924037" duration="28000" />
+      <workItem from="1603877356029" duration="280000" />
+      <workItem from="1603877658707" duration="6000" />
+      <workItem from="1605626120544" duration="83000" />
+      <workItem from="1606569194423" duration="11176000" />
+      <workItem from="1606582031060" duration="536000" />
+      <workItem from="1606655016808" duration="5853000" />
+      <workItem from="1606660906339" duration="6365000" />
+      <workItem from="1606669295080" duration="1576000" />
+      <workItem from="1607862212275" duration="554000" />
+      <workItem from="1607915009659" duration="1273000" />
+      <workItem from="1608013568356" duration="245000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="886" y="289" key="FileChooserDialogImpl" timestamp="1607915080427">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="886" y="289" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607915080427" />
+    <state width="1877" height="216" key="GridCell.Tab.0.bottom" timestamp="1607862766112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="216" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607862766112" />
+    <state width="1877" height="216" key="GridCell.Tab.0.center" timestamp="1607862766111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="216" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607862766111" />
+    <state width="1877" height="216" key="GridCell.Tab.0.left" timestamp="1607862766111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="216" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607862766111" />
+    <state width="1877" height="216" key="GridCell.Tab.0.right" timestamp="1607862766112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="216" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607862766112" />
+    <state width="1877" height="452" key="GridCell.Tab.1.bottom" timestamp="1606667277366">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="452" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606667277366" />
+    <state width="1877" height="452" key="GridCell.Tab.1.center" timestamp="1606667277366">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="452" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606667277366" />
+    <state width="1877" height="452" key="GridCell.Tab.1.left" timestamp="1606667277366">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="452" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606667277366" />
+    <state width="1877" height="452" key="GridCell.Tab.1.right" timestamp="1606667277366">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="452" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606667277366" />
+    <state x="173" y="184" key="SettingsEditor" timestamp="1607862739716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="173" y="184" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607862739716" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1608013573709">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608013573709" />
+    <state x="753" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606569776716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1606569776716" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Predict/ArNTSteelDefectsClassifier.py</url>
+          <line>404</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GQLianzhu$SplitPLLow.coverage" NAME="SplitPLLow Coverage Results" MODIFIED="1598085005345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataOrigin" />
+    <SUITE FILE_PATH="coverage/GQLianzhu$Steel_Yolo.coverage" NAME="Steel_Yolo Coverage Results" MODIFIED="1598001742767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/keras-yolo3-master" />
+    <SUITE FILE_PATH="coverage/GQLianzhu$SplitImg_test.coverage" NAME="SplitImg_test Coverage Results" MODIFIED="1598092448522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataOrigin" />
+    <SUITE FILE_PATH="coverage/GQLianzhu$O_train.coverage" NAME="O_train Coverage Results" MODIFIED="1606575239335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/keras-yolo3-master" />
+    <SUITE FILE_PATH="coverage/GQLianzhu$SplitImg_and_RewriteXML.coverage" NAME="SplitImg_and_RewriteXML Coverage Results" MODIFIED="1606572348642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataOrigin" />
+    <SUITE FILE_PATH="coverage/GQLianzhu$yolo.coverage" NAME="yolo Coverage Results" MODIFIED="1598112240241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/keras-yolo3-master" />
+    <SUITE FILE_PATH="coverage/GQLianzhu$yolo_video.coverage" NAME="yolo_video Coverage Results" MODIFIED="1598112402576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/keras-yolo3-master" />
+    <SUITE FILE_PATH="coverage/GQLianzhu$voc_annotation.coverage" NAME="voc_annotation Coverage Results" MODIFIED="1606573527690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/keras-yolo3-master" />
+    <SUITE FILE_PATH="coverage/GQLianzhu$ArNTSteelDefectsClassifier.coverage" NAME="ArNTSteelDefectsClassifier Coverage Results" MODIFIED="1606670427098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Predict" />
+    <SUITE FILE_PATH="coverage/GQLianzhu$TestBBoxXML.coverage" NAME="TestBBoxXML Coverage Results" MODIFIED="1599985262368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataOrigin" />
+    <SUITE FILE_PATH="coverage/GQLianzhu$yolo_test_multiMap.coverage" NAME="yolo_test_multiMap Coverage Results" MODIFIED="1598112321117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/keras-yolo3-master" />
+    <SUITE FILE_PATH="coverage/GQLianzhu$SplitImg_and_RewriteXML__1_.coverage" NAME="SplitImg_and_RewriteXML (1) Coverage Results" MODIFIED="1597983304065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataOrigin" />
+    <SUITE FILE_PATH="coverage/GQLianzhu$steel_yolo.coverage" NAME="steel_yolo Coverage Results" MODIFIED="1598112053727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Predict/TOOLS" />
+    <SUITE FILE_PATH="coverage/GQLianzhu$kmeans.coverage" NAME="kmeans Coverage Results" MODIFIED="1606573851987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/keras-yolo3-master" />
+    <SUITE FILE_PATH="coverage/GQLianzhu$train_MyTransferLearn.coverage" NAME="train_MyTransferLearn Coverage Results" MODIFIED="1603877615492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/keras-yolo3-master" />
+    <SUITE FILE_PATH="coverage/GQLianzhu$train.coverage" NAME="train Coverage Results" MODIFIED="1603877559084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/keras-yolo3-master" />
+    <SUITE FILE_PATH="coverage/GQLianzhu$TestBBox.coverage" NAME="TestBBox Coverage Results" MODIFIED="1606572442755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataOrigin" />
+    <SUITE FILE_PATH="coverage/GQLianzhu$llllll.coverage" NAME="llllll Coverage Results" MODIFIED="1607862632219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GQLianzhu$TestBBox__1_.coverage" NAME="TestBBox (1) Coverage Results" MODIFIED="1597989194719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataOrigin" />
+    <SUITE FILE_PATH="coverage/GQLianzhu$dataSplit.coverage" NAME="dataSplit Coverage Results" MODIFIED="1606572985037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/keras-yolo3-master/VOCdevkit/VOC2007" />
+    <SUITE FILE_PATH="coverage/GQLianzhu$steel_interface.coverage" NAME="steel_interface Coverage Results" MODIFIED="1606665227252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Predict/TOOLS" />
+  </component>
+</project>

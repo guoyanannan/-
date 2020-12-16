@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2020.03.19</folder>
+	<filename>20200308119.bmp</filename>
+	<path>C:\Users\hjy\Desktop\2020.03.19\20200308119.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aokeng</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>108</ymin>
+			<xmax>512</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>

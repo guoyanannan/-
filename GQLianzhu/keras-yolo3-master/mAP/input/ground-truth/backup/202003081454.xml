@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2020.03.19</folder>
+	<filename>202003081454.bmp</filename>
+	<path>C:\Users\hjy\Desktop\2020.03.19\202003081454.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hengxiangliewen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>419</ymin>
+			<xmax>277</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+</annotation>

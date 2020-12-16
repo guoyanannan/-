@@ -1,0 +1,7 @@
+0,需要修改算法测试程序的processparam.xml文件，将TOALLIMG啥的改为1
+1，远程连接至100服务器，打开Sql Server Management Studio登录，找到ConfigCenter下的DefectClass表，重命名为DefectClass1，新建DefectClass表（和之前的表列数一样），对照(广青缺陷类别)Excel表的类别编号进行填写
+2，将算法工作站101所有程序全部关闭
+3，将D:\在线检测系统\steel_model文件夹和ArNTSteelDefectsClassifier.py备份，防止新的算法不理需返回原先的算法
+4，将Predict目录中的文件全部拷贝到D:\在线检测系统\
+5,  将ep151-loss9.168-val_loss9.030.h5或者其它也行重命名为steel_model_yolo.h5，将其覆盖到最新的steel_model下，然后从备份的steel_model中拷贝steel_model_classifier.h5,ExternalClassifierInteraction.ini,ArNTClassTable_ASCII.xml到新的steel_model下，并将ExternalClassifierInteraction.ini,ArNTClassTable_ASCII.xml重命名为ExternalClassifierInteraction_cls.ini,ArNTClassTable_ASCII_cls.xml
+6，至此已经全部替换完毕，打开101后台监控程序，然后再将整个系统一键恢复即可

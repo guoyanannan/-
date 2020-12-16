@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2020.03.19</folder>
+	<filename>202003082381.bmp</filename>
+	<path>E:\USTB\样本标定\IMAGE\2020.03.19\202003082381.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>qiaopi</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>5</ymin>
+			<xmax>511</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

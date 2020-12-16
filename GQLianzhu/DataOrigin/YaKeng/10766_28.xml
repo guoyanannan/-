@@ -1,0 +1,26 @@
+<annotation>
+	<folder>压坑</folder>
+	<filename>10766_28.bmp</filename>
+	<path>G:\GQLianzhu\新样本库\压坑\10766_28.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4096</width>
+		<height>1024</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yakeng</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3349</xmin>
+			<ymin>114</ymin>
+			<xmax>3640</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>

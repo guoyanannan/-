@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2020.03.19</folder>
+	<filename>202003081357.bmp</filename>
+	<path>C:\Users\hjy\Desktop\2020.03.19\202003081357.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>qiaopi</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>222</ymin>
+			<xmax>512</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

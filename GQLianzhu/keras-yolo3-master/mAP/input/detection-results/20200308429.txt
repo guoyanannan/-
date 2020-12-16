@@ -1,0 +1,2 @@
+hengxianghuashang 0.55 0 3 512 23
+qiaopi 0.40 30 228 199 376

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2020.03.19</folder>
+	<filename>202003081951.bmp</filename>
+	<path>C:\Users\hjy\Desktop\2020.03.19\202003081951.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zongxianghuashang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>28</ymin>
+			<xmax>248</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+</annotation>
